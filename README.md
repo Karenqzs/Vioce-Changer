@@ -6,16 +6,16 @@ The realtime vioce changer will be interactive that transforming and modifying v
 
 ## Component Parts
 1. 
--Arduino Uno (an older Arduino Duemilanove or “328” Diecimila can be used as well…but not an Arduino Mega nor Leonardo, sorry).
--Adafruit Wave Shield.
--Adafruit Microphone Amplifier Breakout.
+- Arduino Uno (an older Arduino Duemilanove or “328” Diecimila can be used as well…but not an Arduino Mega nor Leonardo, sorry).
+- Adafruit Wave Shield.
+- Adafruit Microphone Amplifier Breakout.
 
 2.
--Arduino Uno
--Arduino Uno shield
--12-bit ADC (converting mic input to a digital signal)
--12-bit DAC (converting the modified digital sound back to an analog audio signal)
--low-pass filter -resistors and capacitors (filtering out some of the noise from the signal)
+- Arduino Uno
+- Arduino Uno shield
+- 12-bit ADC (converting mic input to a digital signal)
+- 12-bit DAC (converting the modified digital sound back to an analog audio signal)
+- low-pass filter -resistors and capacitors (filtering out some of the noise from the signal)
 
 ## Challenges
 I think the challenges would be the hardware parts. I was confused while looking up several tutorials, which people used different component parts for approaching the goal. The method seems to be long and complex, and before taking this class,I've never try hareware project. 
